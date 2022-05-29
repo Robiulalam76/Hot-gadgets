@@ -1,0 +1,108 @@
+body{
+    padding-top: 40px;
+}
+.logo{
+    width: 100px;
+    height: 60px;
+}
+#right{
+    position: relative;
+    left: 475px;
+}
+.carousel-item{
+    padding: 20px 50px;
+}
+.carousel{
+    width: 100%;
+    height: 500px;
+}
+.c-img img{
+    width: 100%;
+    height: 400px;
+
+}
+.buy-now-button{
+    border: none;
+    background-color: black;
+    color: white;
+    border-radius: 7px;
+    padding: 5px 15px;
+    margin-top: 40px;
+}
+.carousel{
+    background-image: url("hot-gadgets/bg-2.png");
+    background-image: url("hot-gadgets/bg-1.png");
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-size: 60px;
+    
+}
+.smart-phone h5{
+    display: flex;
+    justify-content: center;
+
+}
+.card-text{
+    color: gray;
+    text-align: center;
+    padding: 10px 15px;
+}
+#buy-now{
+    display: flex;
+    align-items: center;
+    margin: 25px auto;
+}
+.smart-phone img{
+        padding: 25px 50px;
+}
+.card-shadow{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0px 3px 10px 0px gray;
+}
+.see-all{
+    color: orange;
+}
+#home{
+    margin-top: 0%;
+}
+.container{
+    margin-top: 60px;
+}
+#cat-title{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    margin: 25px auto;
+}
+.col-title{
+    background-color: orange;
+    width: 100px;
+    height: 5px;
+    border-radius: 7px;
+    
+}
+#last{
+    width: 500px;
+    height: 400px;
+}
+.box img{
+    padding: 50px 35px;
+    margin: 15px;
+    box-shadow: 0px 3px 10px 0px gray;
+    border-radius: 10px 0%;
+}
+#margin{
+    margin-right: 30px;
+}
+.categories{
+    height: 700px;
+}
+#img-border{
+    border-radius: 0;
+    border-radius: 0% 10px;
+}
+footer{
+    text-align: center;
+    color: gray;
+}
